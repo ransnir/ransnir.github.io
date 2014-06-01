@@ -144,3 +144,49 @@
 
 2014-05-28T12:10:46.466Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=30e81349-9b4c-f12c-c0f8-2936cd44ae41&cache=Wed,%2028%20May%202014%2012:10:46%20GMT [32m200 [90m2ms - 62b[0m
 
+2014-06-01T06:53:00.667Z - info: [90mGET / [32m200 [90m5ms - 10.18kb[0m
+
+2014-06-01T06:53:01.168Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m39ms - 216.05kb[0m
+
+2014-06-01T06:53:01.175Z - info: [90mGET /js/jquery.js [32m200 [90m47ms - 266.8kb[0m
+
+2014-06-01T06:53:01.203Z - info: [90mGET /cat/lib/cat.css [32m200 [90m33ms - 86.47kb[0m
+
+2014-06-01T06:53:01.203Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m22ms - 188.74kb[0m
+
+2014-06-01T06:53:01.216Z - info: [90mGET /cat/lib/cat.js [32m200 [90m12ms - 282.95kb[0m
+
+2014-06-01T06:53:01.228Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m11ms - 18.46kb[0m
+
+2014-06-01T06:53:01.387Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
+
+2014-06-01T06:53:01.524Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
+
+2014-06-01T06:53:01.525Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m2ms[0m
+
+2014-06-01T06:53:01.782Z - info: [90mGET /favicon.ico [33m404 [90m1ms[0m
+
+2014-06-01T06:53:21.089Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=f0285bec-8b62-17c3-3cc0-4b604050a354&cache=Sun,%2001%20Jun%202014%2006:53:21%20GMT [32m200 [90m3ms - 62b[0m
+
+2014-06-01T06:59:14.912Z - info: [90mGET / [32m200 [90m20ms - 10.18kb[0m
+
+2014-06-01T06:59:14.967Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m13ms - 216.05kb[0m
+
+2014-06-01T06:59:14.969Z - info: [90mGET /cat/lib/cat.js [32m200 [90m11ms - 282.95kb[0m
+
+2014-06-01T06:59:14.992Z - info: [90mGET /js/jquery.js [32m200 [90m36ms - 266.8kb[0m
+
+2014-06-01T06:59:15.002Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m42ms - 18.46kb[0m
+
+2014-06-01T06:59:15.024Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m68ms - 188.74kb[0m
+
+2014-06-01T06:59:15.024Z - info: [90mGET /cat/lib/cat.css [32m200 [90m65ms - 86.47kb[0m
+
+2014-06-01T06:59:15.111Z - info: [90mGET /cat/config/cat.json [32m200 [90m10ms - 1.51kb[0m
+
+2014-06-01T06:59:15.160Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
+
+2014-06-01T06:59:15.219Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
+
+2014-06-01T06:59:35.742Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=f0285bec-8b62-17c3-3cc0-4b604050a354&cache=Sun,%2001%20Jun%202014%2006:59:35%20GMT [32m200 [90m1ms - 62b[0m
+
