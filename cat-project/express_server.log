@@ -190,3 +190,115 @@
 
 2014-06-01T06:59:35.742Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=f0285bec-8b62-17c3-3cc0-4b604050a354&cache=Sun,%2001%20Jun%202014%2006:59:35%20GMT [32m200 [90m1ms - 62b[0m
 
+2014-06-01T07:03:39.782Z - info: [90mGET / [32m200 [90m25ms - 10.18kb[0m
+
+2014-06-01T07:03:39.838Z - info: [90mGET /js/jquery.js [32m200 [90m25ms - 266.8kb[0m
+
+2014-06-01T07:03:39.841Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m23ms - 18.46kb[0m
+
+2014-06-01T07:03:39.857Z - info: [90mGET /cat/lib/cat.css [32m200 [90m39ms - 86.47kb[0m
+
+2014-06-01T07:03:39.869Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m57ms - 216.05kb[0m
+
+2014-06-01T07:03:39.878Z - info: [90mGET /cat/lib/cat.js [32m200 [90m61ms - 282.95kb[0m
+
+2014-06-01T07:03:39.895Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m82ms - 188.74kb[0m
+
+2014-06-01T07:03:40.022Z - info: [90mGET /cat/config/cat.json [32m200 [90m14ms - 1.51kb[0m
+
+2014-06-01T07:03:40.059Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m0ms[0m
+
+2014-06-01T07:03:40.123Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m0ms[0m
+
+2014-06-01T07:04:01.769Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=f0285bec-8b62-17c3-3cc0-4b604050a354&cache=Sun,%2001%20Jun%202014%2007:04:01%20GMT [32m200 [90m1ms - 62b[0m
+
+2014-06-01T07:04:03.164Z - info: [90mGET / [32m200 [90m0ms - 10.18kb[0m
+
+2014-06-01T07:04:03.227Z - info: [90mGET /cat/lib/cat.css [32m200 [90m7ms - 86.47kb[0m
+
+2014-06-01T07:04:03.227Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m8ms - 188.74kb[0m
+
+2014-06-01T07:04:03.235Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m17ms - 216.05kb[0m
+
+2014-06-01T07:04:03.236Z - info: [90mGET /cat/lib/cat.js [32m200 [90m16ms - 282.95kb[0m
+
+2014-06-01T07:04:03.238Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m17ms - 18.46kb[0m
+
+2014-06-01T07:04:03.262Z - info: [90mGET /js/jquery.js [32m200 [90m44ms - 266.8kb[0m
+
+2014-06-01T07:04:03.377Z - info: [90mGET /cat/config/cat.json [32m200 [90m2ms - 1.51kb[0m
+
+2014-06-01T07:04:03.415Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m0ms[0m
+
+2014-06-01T07:04:03.480Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m2ms[0m
+
+2014-06-01T07:23:30.630Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=f0285bec-8b62-17c3-3cc0-4b604050a354&cache=Sun,%2001%20Jun%202014%2007:23:30%20GMT [32m200 [90m1ms - 62b[0m
+
+2014-06-01T07:36:35.791Z - info: [90mGET / [32m200 [90m4ms - 11.38kb[0m
+
+2014-06-01T07:36:35.846Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m3ms - 188.74kb[0m
+
+2014-06-01T07:36:35.847Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m9ms - 216.05kb[0m
+
+2014-06-01T07:36:35.848Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m4ms - 33.91kb[0m
+
+2014-06-01T07:36:35.848Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
+
+2014-06-01T07:36:35.849Z - info: [90mGET /js/jquery.js [32m200 [90m10ms - 266.8kb[0m
+
+2014-06-01T07:36:35.853Z - info: [90mGET /cat/lib/cat.js [32m200 [90m10ms - 282.95kb[0m
+
+2014-06-01T07:36:35.978Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
+
+2014-06-01T07:36:36.028Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
+
+2014-06-01T07:36:38.022Z - info: [90mGET /assert?testName=setUsername&scenario=general&message=[CAT]%20Test%20failed,%20exception:%20SyntaxError:%20Unexpected%20token%20}&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:38%20GMT [32m200 [90m2ms - 132b[0m
+
+2014-06-01T07:36:40.040Z - info: [90mGET /assert?testName=setEmail&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:40%20GMT [32m200 [90m2ms - 79b[0m
+
+2014-06-01T07:36:42.067Z - info: [90mGET /assert?testName=setPassword&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:42%20GMT [32m200 [90m0ms - 82b[0m
+
+2014-06-01T07:36:44.082Z - info: [90mGET /assert?testName=setRepeatPassword&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:44%20GMT [32m200 [90m1ms - 88b[0m
+
+2014-06-01T07:36:46.094Z - info: [90mGET /assert?testName=setmobileweb&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:46%20GMT [32m200 [90m0ms - 83b[0m
+
+2014-06-01T07:36:48.107Z - info: [90mGET /assert?testName=setweb&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:48%20GMT [32m200 [90m1ms - 77b[0m
+
+2014-06-01T07:36:50.120Z - info: [90mGET /assert?testName=slider90&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:36:50%20GMT [32m200 [90m0ms - 79b[0m
+
+2014-06-01T07:37:02.373Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:02%20GMT [32m200 [90m1ms - 62b[0m
+
+2014-06-01T07:37:11.490Z - info: [90mGET / [32m200 [90m5ms - 11.38kb[0m
+
+2014-06-01T07:37:11.542Z - info: [90mGET /cat/lib/cat.css [32m200 [90m9ms - 86.47kb[0m
+
+2014-06-01T07:37:11.542Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m12ms - 188.74kb[0m
+
+2014-06-01T07:37:11.542Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m10ms - 33.98kb[0m
+
+2014-06-01T07:37:11.545Z - info: [90mGET /js/jquery.js [32m200 [90m15ms - 266.8kb[0m
+
+2014-06-01T07:37:11.547Z - info: [90mGET /cat/lib/cat.js [32m200 [90m16ms - 282.95kb[0m
+
+2014-06-01T07:37:11.570Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m41ms - 216.05kb[0m
+
+2014-06-01T07:37:11.647Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
+
+2014-06-01T07:37:11.672Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
+
+2014-06-01T07:37:13.677Z - info: [90mGET /assert?testName=setUsername&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:13%20GMT [32m200 [90m1ms - 82b[0m
+
+2014-06-01T07:37:15.694Z - info: [90mGET /assert?testName=setEmail&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:15%20GMT [32m200 [90m2ms - 79b[0m
+
+2014-06-01T07:37:17.709Z - info: [90mGET /assert?testName=setPassword&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:17%20GMT [32m200 [90m1ms - 82b[0m
+
+2014-06-01T07:37:19.725Z - info: [90mGET /assert?testName=setRepeatPassword&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:19%20GMT [32m200 [90m0ms - 88b[0m
+
+2014-06-01T07:37:21.736Z - info: [90mGET /assert?testName=setmobileweb&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:21%20GMT [32m200 [90m0ms - 83b[0m
+
+2014-06-01T07:37:23.747Z - info: [90mGET /assert?testName=setweb&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:23%20GMT [32m200 [90m0ms - 77b[0m
+
+2014-06-01T07:37:25.768Z - info: [90mGET /assert?testName=slider90&scenario=general&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:25%20GMT [32m200 [90m7ms - 79b[0m
+
+2014-06-01T07:37:28.774Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=855f076e-77de-ff30-229b-60e26d487b4b&cache=Sun,%2001%20Jun%202014%2007:37:28%20GMT [32m200 [90m2ms - 62b[0m
+
